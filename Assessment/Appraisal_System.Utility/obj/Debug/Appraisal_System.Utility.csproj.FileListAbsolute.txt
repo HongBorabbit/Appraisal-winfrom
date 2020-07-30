@@ -1,0 +1,5 @@
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Appraisal_System.Utility\bin\Debug\Appraisal_System.Utility.dll
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Appraisal_System.Utility\bin\Debug\Appraisal_System.Utility.pdb
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Appraisal_System.Utility\obj\Debug\Appraisal_System.Utility.csproj.CoreCompileInputs.cache
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Appraisal_System.Utility\obj\Debug\Appraisal_System.Utility.dll
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Appraisal_System.Utility\obj\Debug\Appraisal_System.Utility.pdb

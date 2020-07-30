@@ -1,0 +1,9 @@
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Appraisal_System.Models\obj\Debug\Appraisal_System.Models.csproj.CoreCompileInputs.cache
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Appraisal_System.Models\obj\Debug\Appraisal_System.Models.csprojAssemblyReference.cache
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Appraisal_System.Models\bin\Debug\Appraisal_System.Models.dll
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Appraisal_System.Models\bin\Debug\Appraisal_System.Models.pdb
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Appraisal_System.Models\bin\Debug\Appraisal_System.Utility.dll
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Appraisal_System.Models\bin\Debug\Appraisal_System.Utility.pdb
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Appraisal_System.Models\obj\Debug\Appraisal_System.Models.csproj.CopyComplete
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Appraisal_System.Models\obj\Debug\Appraisal_System.Models.dll
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Appraisal_System.Models\obj\Debug\Appraisal_System.Models.pdb

@@ -1,0 +1,12 @@
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Assessment\bin\Debug\Assessment.exe.config
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Assessment\bin\Debug\Assessment.exe
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Assessment\bin\Debug\Assessment.pdb
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Assessment\obj\Debug\Assessment.FrmMain.resources
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Assessment\obj\Debug\Assessment.Properties.Resources.resources
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Assessment\obj\Debug\Assessment.csproj.GenerateResource.cache
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Assessment\obj\Debug\Assessment.csproj.CoreCompileInputs.cache
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Assessment\obj\Debug\Assessment.exe
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Assessment\obj\Debug\Assessment.pdb
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Assessment\obj\Debug\Assessment.FrmUserManager.resources
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Assessment\obj\Debug\Assessment.csprojAssemblyReference.cache
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Assessment\obj\Debug\Assessment.FrmSetUser.resources
