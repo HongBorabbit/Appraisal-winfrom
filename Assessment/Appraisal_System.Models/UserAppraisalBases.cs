@@ -17,11 +17,20 @@ namespace Assessment.Models
         public string BaseType { get; set; }
         public int AppraisalBase { get; set; }
         public bool IsDel { get; set; }
-
-        public static List<UserAppraisalBases> GetListJoinAppraisal()
+        /// <summary>
+        /// 返回datatable
+        /// </summary>
+        /// <returns></returns>
+        public static DataTable GetDtJoinAppraisal()
         {
             List<UserAppraisalBases> userAppraisalBases = new List<UserAppraisalBases>();
             DataTable dt = SqlHelper.ExecuteTable("select u.Id,u.UserName,u.Sex,u.BaseTypeId,u.IsDel,a.AppraisalBase,a.BaseType from Users u left join AppraisalBases a on u.BaseTypeId = a.Id");
+            return dt;
+        }
+        public static List<UserAppraisalBases> GetListJoinAppraisal()
+        {
+            List<UserAppraisalBases> userAppraisalBases = new List<UserAppraisalBases>();
+            DataTable dt = GetDtJoinAppraisal();
             foreach (DataRow dr in dt.Rows)
             {
                 userAppraisalBases.Add(ToModel(dr));

@@ -39,7 +39,7 @@
             this.dgvBase.Location = new System.Drawing.Point(0, 0);
             this.dgvBase.Name = "dgvBase";
             this.dgvBase.RowTemplate.Height = 23;
-            this.dgvBase.Size = new System.Drawing.Size(619, 356);
+            this.dgvBase.Size = new System.Drawing.Size(741, 416);
             this.dgvBase.TabIndex = 0;
             this.dgvBase.CellValueChanged += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvBase_CellValueChanged);
             // 
@@ -47,7 +47,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(619, 356);
+            this.ClientSize = new System.Drawing.Size(741, 416);
             this.Controls.Add(this.dgvBase);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FrmBaseManager";

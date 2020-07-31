@@ -15,7 +15,7 @@ namespace Assessment
         /// </summary>
         [STAThread]
         static void Main()
-        {
+       {
             SqlHelper.Constr = ConfigurationManager.ConnectionStrings["Constr"].ConnectionString;
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);

@@ -16,3 +16,5 @@ D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Assessment\bin\Deb
 D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Assessment\bin\Debug\Appraisal_System.Utility.pdb
 D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Assessment\obj\Debug\Appraisal_System.csproj.CopyComplete
 D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Assessment\obj\Debug\Assessment.FrmBaseManager.resources
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Assessment\obj\Debug\Assessment.FrmUserAppraisal.resources
+D:\2020-Visual Studio 2019-Demo\Winform-Assessment\Assessment\Assessment\obj\Debug\Assessment.FrmUserAppraisalEdit.resources

@@ -12,7 +12,6 @@ namespace Assessment.Common
     {
         //private static FrmUserManager frmUserManager;
         //private static FrmBaseManager frmBaseManager;
-        private static Form form;
         private static List<Form> forms = new List<Form>();
         //public static Form CreateFrom(int index)
         //{
@@ -51,9 +50,11 @@ namespace Assessment.Common
             Assembly ass = Assembly.LoadFrom("Assessment.exe");
             types = ass.GetTypes().ToList();
         }
+        //反射选择判断 选中的窗体
         public static Form CreateFrom(string formName)
         {
             HideFormAll();
+            formName = formName == null ? "FrnNone" : formName;
             Form form = forms.Find(m => m.Name == formName);
             if (form ==null)
             {

@@ -12,12 +12,14 @@ namespace Assessment.Common
     {
         public static string Constr { get; set; }
         //读取数据
-        public static DataTable ExecuteTable(string cmdText)
+        public static DataTable ExecuteTable(string cmdText,params SqlParameter[] sqlParameters)
         {
             using (SqlConnection con = new SqlConnection(Constr))
             {
                 con.Open();
                 SqlCommand cmd = new SqlCommand(cmdText, con);
+                //参数化
+                cmd.Parameters.AddRange(sqlParameters);
                 SqlDataAdapter sda = new SqlDataAdapter(cmd);
                 DataSet ds = new DataSet();
                 sda.Fill(ds);

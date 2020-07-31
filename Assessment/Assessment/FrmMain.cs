@@ -42,7 +42,7 @@ namespace Assessment
             e.Node.BackColor = SystemColors.Highlight;
             e.Node.ForeColor = Color.White;
             // 判断点击弹出窗体
-            Form form = FormFactory.CreateFrom(e.Node.Tag.ToString());
+            Form form = FormFactory.CreateFrom(e.Node.Tag?.ToString());
             form.MdiParent = this;
             form.Parent = splitContainer1.Panel2;
             form.Show();
